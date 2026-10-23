@@ -28,6 +28,7 @@ input[type=number],input.s{width:76px}
 .aula{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between;padding:8px 0;border-top:1px solid var(--bd)}
 .aula b.pen{color:var(--warn)}
 cfn segundo commit
+segundo commit
 .tw{overflow-x:auto}
 table{width:100%;border-collapse:collapse}td,th{padding:4px;text-align:left;font-size:13px}
 td input{width:100%;min-width:60px}
